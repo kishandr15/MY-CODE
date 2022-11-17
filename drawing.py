@@ -61,7 +61,7 @@ def txt():
 
     # Write the specified text in
     # specified font style and size
-    pen.write("Sweetieee", font=(
+    pen.write("What you type prints here", font=(
         "Verdana", 12, "bold"))
 
 heart()
